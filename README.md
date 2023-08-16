@@ -1,8 +1,12 @@
-# React + Vite
+# ComServer : Social media with connections
+-- Live Link : https://cheery-kulfi-ff3fb1.netlify.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Made with :
 
-Currently, two official plugins are available:
+- Vite
+- Firebase
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Social Media app with :
+1. File Handling
+2. Commenting
+3. Auth
